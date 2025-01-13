@@ -1,0 +1,96 @@
+site_name: "de.NBI Training Documents"
+docs_dir: /srv_root/docs/wiki
+site_dir: /var/www/html/wiki
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: 'blue'
+      accent: 'purple'
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: 'teal'
+      accent: 'cyan'
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  logo: 'img/denbi.svg'
+  favicon: 'img/denbi.svg'
+  features:
+    - navigation.top
+    - navigation.indexes
+repo_name: 'deNBI/training-docs'
+repo_url: 'https://github.com/deNBI/training-docs'
+edit_uri: blob/master/wiki/
+use_directory_urls: true
+site_url: !ENV [SITE_URL, 'https://training.bi.denbi.de/']
+plugins:
+  - search
+  - glightbox
+  - macros
+  - git-revision-date-localized:
+        fallback_to_build_date: true
+  - htmlproofer:
+      enabled: !ENV [ENABLED_HTMLPROOFER,False]
+      raise_error_after_finish: True
+      raise_error_excludes:
+        -1: ["https://cloud.denbi.de/portal/webapp/#/userinfo","http://169.254.169.254","https://login.elixir-czech.org/oidc/","https://spreg-legacy.aai.elixir-czech.org/spreg/auth/requests/new","https://spreg-legacy.aai.elixir-czech.org/spreg/auth/facilities/myServices","http://BIBIGRID_MASTER/ganglia"]
+        400: ["http://169.254.169.254"]
+        500: ["https://cloud.denbi.de/register", "https://signup.aai.lifescience-ri.eu/fed/registrar/?vo=elixir_test"]
+markdown_extensions:
+  - abbr
+  - attr_list
+  - admonition
+  - codehilite
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: True
+      auto_append:
+        - /srv_root/docs/wiki/includes/glossary.md
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - matomo.js
+  - mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/de-nbi/
+      name: de.NBI on LinkedIN
+    - icon: fontawesome/brands/github
+      link: https://github.com/deNBI/
+      name: de.NBI on GitHub
+
+nav:
+  - 'Home' : index.md
