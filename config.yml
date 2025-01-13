@@ -66,10 +66,6 @@ markdown_extensions:
   - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.snippets:
-      check_paths: True
-      auto_append:
-        - /srv_root/docs/wiki/includes/glossary.md
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
