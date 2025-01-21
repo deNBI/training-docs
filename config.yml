@@ -1,6 +1,6 @@
 site_name: "de.NBI Training Documents"
 docs_dir: /srv_root/docs/wiki
-site_dir: /var/www/html/wiki
+site_dir: /var/www/html/
 theme:
   name: material
   palette:
@@ -40,9 +40,9 @@ plugins:
       enabled: !ENV [ENABLED_HTMLPROOFER,False]
       raise_error_after_finish: True
       raise_error_excludes:
-        -1: ["https://cloud.denbi.de/portal/webapp/#/userinfo","http://169.254.169.254","https://login.elixir-czech.org/oidc/","https://spreg-legacy.aai.elixir-czech.org/spreg/auth/requests/new","https://spreg-legacy.aai.elixir-czech.org/spreg/auth/facilities/myServices","http://BIBIGRID_MASTER/ganglia"]
+        -1: ["http://169.254.169.254"]
         400: ["http://169.254.169.254"]
-        500: ["https://cloud.denbi.de/register", "https://signup.aai.lifescience-ri.eu/fed/registrar/?vo=elixir_test"]
+        500: ["]
 markdown_extensions:
   - abbr
   - attr_list
