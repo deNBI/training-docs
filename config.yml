@@ -1,4 +1,4 @@
-site_name: "de.NBI Training Documents"
+site_name: "Training Clinic Documents"
 docs_dir: /srv_root/docs/wiki
 site_dir: /var/www/html/
 theme:
@@ -25,7 +25,7 @@ theme:
   features:
     - navigation.top
     - navigation.indexes
-repo_name: 'deNBI/training-docs'
+repo_name: 'deNBI/training-clinic'
 repo_url: 'https://github.com/deNBI/training-docs'
 edit_uri: blob/main/wiki/
 use_directory_urls: true
