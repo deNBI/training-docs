@@ -1,3 +1,3 @@
-# de.NBI Training Documents
+# Training Clinic Documents
 
-This repository containts the files for the hosting of the de.NBI training documents available [here](training.bi.denbi.de).
+This repository containts the files for the hosting of the Training Clinic documents available.
