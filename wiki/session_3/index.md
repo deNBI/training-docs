@@ -50,11 +50,13 @@ When evaluating whether a course running too long or finishing too early is more
 <h3>Challenges</h3>
 
 <h4>Course Taking Too Long:</h4>
+
 - Participant Fatigue: Extended sessions can lead to participant fatigue, diminishing engagement and retention of information.
 - Scheduling Conflicts: Overrunning can conflict with participants’ other commitments, potentially causing frustration.
 - Reduced Effectiveness: Stretching content can dilute the impact and clarity of essential material.
 
 <h4>Course Finishing Too Early:</h4>
+
 - Unmet Expectations: Participants may feel shortchanged if the course doesn't fully utilize the allocated time.
 - Lack of Depth: Finishing early might indicate insufficient coverage of topics, leaving participants with unresolved questions.
 - Perceived Inefficiency: Participants might question the course's value if it concludes sooner than expected.
