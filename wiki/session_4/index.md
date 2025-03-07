@@ -39,7 +39,7 @@ Long-term feedback of training courses can provide valuable insights into the su
 
 5. Participants' recall of their training experience might diminish over time, affecting the accuracy and reliability of their feedback. 
 
-<h3>What was the meanest feedback you ever got? How did you react?</h3>
+<h2>What was the meanest feedback you ever got? How did you react?</h2>
 
 (DW): I've been working in the data management field for over 20 years, and I found the entire course completely boring. I had to enroll in another course.
 
