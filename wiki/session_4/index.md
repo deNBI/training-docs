@@ -50,11 +50,11 @@ I reacted calmly because the course was clearly advertised as a beginner-level R
 
 Evaluating courses is essential for improving their content and delivery. Both during and after the course evaluations have their merits:
 
-1. During the Course:
+<h3>During the Course:</h3>
    - Immediate Feedback: Allows for real-time adjustments based on participant feedback, enhancing the learning experience on the spot.
    - Engagement: Encourages the course participants to be more engaged and thoughtful about the course content as they know their input can have an immediate impact.
-
-2. After the Course:
+   
+<h3>After the Course:</h3>
    - Comprehensive Overview: Provides the course participants time to reflect on the entire course, resulting in more considered feedback.
    - Outcome-Based Feedback: Allows the course participants to assess the course in terms of the skills and knowledge they have gained by the end.
 
