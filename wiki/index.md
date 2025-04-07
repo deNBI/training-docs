@@ -4,6 +4,6 @@ The main objective of this new course format - Training Clinic - is to provide p
 
 The session also grants the possibility to exchange experiences between trainers and help connecting trainers. The course will be divided into different modules to facilitate the learning process. It will include a combination of lectures, practical exercises and case studies. This provides participants with both theoretical knowledge and practical experience. However, the focus should be on the exchange of problem-solving treatments. 
 
-In the fourth edition (14 February), we will explore "Feedback & Assessment in Training Courses." Uncover impactful strategies and tested methods to enhance the quality and effectiveness of your feedback processes. Whether you're an instructor or a participant, mastering feedback and assessment techniques can significantly elevate your training experience. Don't miss this opportunity to learn how to provide meaningful evaluations and optimize the learning journey in every session!
+In the fifth edition (15 April), we will delve into "Handling Difficult Situations in Training Courses." Discover effective strategies and proven techniques to navigate and manage challenges that arise during training sessions. Whether you're an instructor facing unexpected obstacles or a participant aiming to contribute positively, mastering these skills can greatly enhance the overall training experience. Don't miss this opportunity to learn how to maintain a constructive and supportive environment, ensuring a smooth and successful learning journey for everyone involved!
 
-Read more: https://www.denbi.de/training-courses-2025/1829-training-clinic-february-2025
+Read more: https://www.denbi.de/training-courses-2025/1874-training-clinic-april-2025
