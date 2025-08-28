@@ -112,7 +112,7 @@ If participants are not asking questions or providing comments during training, 
 
 ## **9. Follow up after the session**
 - **Anonymous Feedback Forms:** Distribute feedback forms at the end to gauge their thoughts on the session and what could be improved regarding interaction.
-- ## **Offer to Follow Up:** Invite participants to reach out after the session with questions or comments. This can give them the confidence to engage more next time.
+- **Offer to Follow Up:** Invite participants to reach out after the session with questions or comments. This can give them the confidence to engage more next time.
 
 * # **Real life scenario - “Trainer has no answer to the participant’s question”**
 
